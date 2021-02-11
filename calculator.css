@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    font-size: 150%;
+}
+
+.ac {
+    color: purple;
+}
+
+.ac{
+    color: rgb(0, 0, 0)
+}
+
+button {
+    border-color: skyblue;
+  }
+
+
+button{
+
+    background-color: white;
+
+}
+
+
